@@ -261,4 +261,11 @@ input[type=submit] {
    .paragraph {
     clear: both;
   }
+  .auth-image {
+  
+  width: 260px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+}
 }
