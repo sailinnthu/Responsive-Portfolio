@@ -278,10 +278,16 @@ input[type=submit] {
 .sidebar {
   float: right;
   width: 100%;
-  max-width: 270px;
+  max-width: 384px;
   padding: 30px;
   margin-bottom: 20px;
   background: #fff;
   border: 1px solid #ddd;
+}
+.container h2{
+  text-align: center;
+}
+.social:last-child {
+  margin-right: 40px;
 }
 }
